@@ -4,8 +4,13 @@ var person = "sabiha";
 
 //ES6
 //allow us to reassign the variable
-let person1="ram";
+let person1 = "ram";
 //doesnt allow to change the variable
 // const persion2="aalu";
 console.log(person);
 console.log(person1);
+//interaction
+alert("hello");
+const form = prompt("what is your name?");
+const form1 = confirm("are you okay?");
+console.log(form, form1);
