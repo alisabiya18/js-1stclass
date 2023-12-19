@@ -14,3 +14,4 @@ alert("hello");
 const form = prompt("what is your name?");
 const form1 = confirm("are you okay?");
 console.log(form, form1);
+console.log("using git command");
